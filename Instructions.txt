@@ -1,0 +1,1 @@
+Unzip the Potato___Early_blight.zip in the traininig\PlantVillage folder. This has three folders, with images, for each type of plant diseases.
